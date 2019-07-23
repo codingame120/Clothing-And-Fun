@@ -1,0 +1,29 @@
+body {
+
+	background-color:white;
+}
+
+.circle {
+
+	width: 310px;
+	height: 310px;
+	background-color:#9ffff2;
+	border-radius: 50%;
+	position: fixed;
+	bottom: 10px;
+	margin-left: -62px;
+	margin-bottom: -62px;
+
+
+}
+
+.circle1 {
+
+	width: 290px;
+	height: 290px;
+	border-radius: 50%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}

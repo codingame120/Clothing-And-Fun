@@ -16,6 +16,8 @@ ul.topnav li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  letter-spacing: 0.1em;
+  font-size: 18px;
 }
 
 ul.topnav li a:hover:not(.active) {background-color: purple;}

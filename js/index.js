@@ -31,4 +31,3 @@ for (h = 0; h < y.length; h++) {
   setTimeout(carousell, 9000);
 }  
 
-

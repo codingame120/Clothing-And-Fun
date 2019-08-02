@@ -15,7 +15,7 @@ ul.topnav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: pink;
+    background-color: #ffe6ee;
 }
 
 ul.topnav li {
@@ -24,7 +24,7 @@ ul.topnav li {
 
 ul.topnav li a {
     display: block;
-    color: white;
+    color: grey;
     text-align: center;
     padding: 19px 21px;
     text-decoration: none;
@@ -44,6 +44,61 @@ ul.topnav li.right {
     float: right;
 }
 
+.image {
+
+    width: 100%;
+}
+
+.image {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+     
+}
+.img1 {
+
+    width: 100%;
+    height: auto;
+}
+
+.slide {
+
+    max-width: 40%;
+    margin-left: 25px;
+    margin-top: 90px;
+    margin-bottom: 25px;
+    
+} 
+
+
+.slides {
+
+    width: 100%;
+
+}
+
+
+
+.slide1 {
+
+    float: right;
+    max-width: 40%;
+    margin-right:25px;
+    margin-top: 90px;
+    margin-bottom: 25px;
+}
+.slides1 {
+
+    width: 100%;
+}
+
+
+
+
+
 @media screen and (max-width: 600px) {
 
     ul.topnav li.right,
@@ -56,5 +111,10 @@ ul.topnav li.right {
         max-width: 90%;
 
 
+    }
+
+    .image {
+
+        display: none;
     }
 }

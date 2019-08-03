@@ -39,23 +39,7 @@ ul.topnav li.right {
 }
 
 
-.icons 
-{
 
-    
-    margin-top: 200px;
-  
-    background-color: rgba(238, 238, 238, 1);
-    height: 300px;
-    text-align: center;
-
-    
-}
-
-.icons a {
-
-    margin-top: 55px;
-}
 
 .follow {
    
@@ -89,24 +73,55 @@ ul.topnav li.right {
 }
 
 
+.icons 
+{
+
+    
+    margin-top: 200px;
+  
+    background-color: rgba(238, 238, 238, 1);
+    height: 300px;
+    text-align: center;
+    font-family: serif;
+    letter-spacing: 0.1em;
+    font-family: serif;
+
+    
+}
+
+.icons a {
+
+    margin-top: 55px;
+    
+    
+}
+
 footer  {
     display: flex;
     justify-content: center;
     padding: 5px;
-    background-color: rgba(177,156,217,0.9);
+    background-color: rgba(177, 156, 217, 0.9);
     color: #fff;
+    flex-direction: column;
+    align-items: center;
+    font-family: serif;
+    letter-spacing: 0.1em;
+  }
+
+footer p {
+    color: grey;
+    font-size: 2vw;
+    display: flex;
     align-items: center;
     flex-direction: column;
+    font-family: serif;
     
 
-    
 }
-footer p {
 
-    font-size: 2vw;
-    color: grey;
-    
+footer p a {
 
+  color: white;
 }
 
 

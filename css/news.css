@@ -26,7 +26,7 @@ ul.topnav li a {
 }
 
 ul.topnav li a:hover:not(.active) {
-    background-color: mediumpurple;
+    background-color: #b19cd9;
 }
 
 ul.topnav li a.active {

@@ -17,7 +17,13 @@ body {
 
 .icons a {
 
-    margin-top: 120px;
+    margin-top: 55px;
+}
+
+.follow {
+   
+  font-size: 2vw;
+  padding-top: 15px;
 }
 
 
@@ -98,6 +104,7 @@ footer p {
     font-size: 2vw;
 
 }
+
 
 
 @media screen and (max-width: 600px) {

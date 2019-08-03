@@ -2,9 +2,9 @@ body {
     margin: 0;
 }
 
-.logo-image{
-  
-    
+.logo-image {
+
+
     overflow: hidden;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -16,7 +16,7 @@ ul.topnav {
     padding: 0;
     overflow: hidden;
     background-color: #ffe6ee;
-   
+
 }
 
 ul.topnav li {
@@ -45,6 +45,75 @@ ul.topnav li.right {
     float: right;
 }
 
+.icons {
+
+
+    margin-top: 200px;
+
+    background-color: rgba(238, 238, 238, 1);
+    height: 300px;
+    text-align: center;
+
+
+}
+
+.icons a {
+
+    margin-top: 55px;
+}
+
+.follow {
+
+    font-size: 2vw;
+    padding-top: 15px;
+    color: mediumpurple;
+}
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: mediumpurple;
+    color: white;
+}
+
+.fa-instagram {
+    background: mediumpurple;
+    color: white;
+}
+
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: rgba(177, 156, 217, 0.9);
+    color: #fff;
+    align-items: center;
+    flex-direction: column;
+
+
+
+}
+
+footer p {
+
+    font-size: 2vw;
+    color: grey;
+}
+
+
 .image {
 
     width: 100%;
@@ -57,8 +126,9 @@ ul.topnav li.right {
     justify-content: center;
     margin-top: 25px;
     margin-bottom: 25px;
-     
+
 }
+
 .img1 {
 
     width: 100%;
@@ -71,8 +141,10 @@ ul.topnav li.right {
     margin-left: 25px;
     margin-top: 90px;
     margin-bottom: 25px;
-    
-} 
+    display: flex;
+    flex-direction: row-reverse;
+
+}
 
 
 .slides {
@@ -81,22 +153,57 @@ ul.topnav li.right {
 
 }
 
+.right {
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 250px;
+    font-size: 5vw;
+
+}
+
 
 
 .slide1 {
-
-    float: right;
+    display: flex;
+    flex-direction: row-reverse;
     max-width: 40%;
-    margin-right:25px;
+    margin-right: 25px;
     margin-top: 90px;
     margin-bottom: 25px;
 }
+
 .slides1 {
 
     width: 100%;
 }
 
- 
+.flex {
+
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+
+.flex1 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.left {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 250px;
+    font-size: 5vw;
+
+}
+
 @media screen and (max-width: 600px) {
 
     ul.topnav li.right,
@@ -116,4 +223,3 @@ ul.topnav li.right {
         display: none;
     }
 }
-

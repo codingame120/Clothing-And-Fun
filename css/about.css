@@ -125,6 +125,8 @@ p {
     font-size: 5vw;
 }
 
+
+
 .logo {
 
     text-align: center;
@@ -148,10 +150,22 @@ p {
     
     
     margin-right: 20px;
+    margin-top: 120px;
+    margin-bottom: 100px;
 
 }
 
 
 }
+
+@media screen and (max-width: 600px){
+
+h1 {
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+
+}
+
 
 

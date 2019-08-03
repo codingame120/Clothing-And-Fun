@@ -16,9 +16,9 @@ function carousel() {
 
 
 var index = 0;
-carousel1();
+carousell();
 
-function carousel1() {
+function carousell() {
 	var h;
 	var y = document.getElementsByClassName("slides1");
 
@@ -28,13 +28,13 @@ for (h = 0; h < y.length; h++) {
   index++;
   if (index > y.length) {index = 1}    
   y[index-1].style.display = "block";  
-  setTimeout(carousel1, 8000);
+  setTimeout(carousell, 8000);
 }  
 
 var ndex = 0;
-carousel2();
+carouselll();
 
-function carousel2() {
+function carouselll() {
   var i;
   var x = document.getElementsByClassName("slides2");
   for (i = 0; i < x.length; i++) {
@@ -43,5 +43,5 @@ function carousel2() {
   ndex++;
   if (ndex > x.length) {ndex = 1}    
   x[ndex-1].style.display = "block";  
-  setTimeout(carousel2, 9000);    
+  setTimeout(carouselll, 9000);    
 }

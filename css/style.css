@@ -146,15 +146,6 @@ ul.topnav li.right {
 
 
 
-
-.follow {
-
-    font-size: 2vw;
-    padding-top: 15px;
-    color: mediumpurple;
-}
-
-
 .fa {
     padding: 20px;
     font-size: 30px;
@@ -193,6 +184,15 @@ ul.topnav li.right {
 
     
 }
+
+
+.follow {
+
+    font-size: 2vw;
+    padding-top: 15px;
+    color: mediumpurple;
+}
+
 
 .icons a {
 
@@ -256,4 +256,29 @@ footer p a {
     }
 }
 
+@media screen and (max-width: 600px){
 
+
+
+.slide  {
+   
+   margin-right: 5px;
+
+}
+
+.right1 {
+
+    margin-left: 50px;
+
+}
+.slide1{
+
+    margin-left: 5px;
+}
+.left {
+    margin-right: 50px;
+}
+
+
+
+}

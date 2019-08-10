@@ -4,16 +4,6 @@ body {
 
 
 
-
-.follow {
-   
-  font-size: 2vw;
-  padding-top: 15px;
-}
-
-
-
-
 .fa {
   padding: 20px;
   font-size: 30px;
@@ -87,6 +77,17 @@ ul.topnav li.right {
 
     
 }
+
+
+
+.follow {
+   
+  font-size: 2vw;
+  padding-top: 15px;
+  color: mediumpurple;
+}
+
+
 
 .icons a {
 

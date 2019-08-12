@@ -77,6 +77,8 @@ div.desc {
   padding: 0 6px;
   float: left;
   width: 24.99999%;
+  margin-top: 200px;
+  margin-bottom: 200px;
 }
 
 @media only screen and (max-width: 700px) {

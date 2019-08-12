@@ -43,8 +43,8 @@
 
      text-align: center;
      color: mediumpurple;
-     margin-top: 150px;
-     font-size: 5vw;
+     margin-top: 100px;
+     font-size: 4vw;
  }
 
 div.gallery {
@@ -64,7 +64,7 @@ div.desc {
   padding: 15px;
   text-align: center;
   font-weight: bold;
-  font-size: 1.5vw;
+  font-size: 22px;
   font-style: serif;
   letter-spacing: 0.1em;
 }
@@ -78,7 +78,7 @@ div.desc {
   float: left;
   width: 24.99999%;
   margin-top: 200px;
-  margin-bottom: 200px;
+  margin-bottom: 300px;
 }
 
 @media only screen and (max-width: 700px) {

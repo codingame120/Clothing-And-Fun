@@ -44,3 +44,8 @@ ul.topnav li.right {
         float: none;
     }
 }
+
+#disqus_thread {
+
+    margin-top: 800px;
+}

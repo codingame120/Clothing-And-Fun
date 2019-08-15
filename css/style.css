@@ -208,6 +208,14 @@ ul.topnav li.right {
 .icons a {
 
     margin-top: 55px;
+    border-radius: 15px;
+    
+}
+
+.center {
+ display: flex;
+ justify-content: center;
+ align-items: center;
 }
 
 

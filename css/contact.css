@@ -175,4 +175,10 @@ box-shadow: 0 0 3px pink !important;
     width: 100%;
     margin-top: 0;
   }
+  
+  .row {
+
+    margin-top: 10px;
+  }
+
 }

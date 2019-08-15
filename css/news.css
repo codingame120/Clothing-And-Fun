@@ -96,9 +96,10 @@ padding-left: 60%;
     font-family: serif;
     color: grey;
     margin-top: 80px;
-    
+    margin-bottom: 150px;
+    }
 
-}
+    
 .clearfix:after {
   content: "";
   display: table;

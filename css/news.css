@@ -45,7 +45,18 @@ ul.topnav li.right {
     }
 }
 
-#disqus_thread {
+iframe {
+width:30%;
+height:auto;
+}
 
-    margin-top: 800px;
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+  margin-top: 200px;
+
+
 }

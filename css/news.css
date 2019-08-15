@@ -162,19 +162,19 @@ ul.topnav li.right {
         padding-bottom: 56.25%;
         padding-top: 60px;
         overflow: hidden;
-        width: 92%;
+        width: 93%;
         height: auto;
-        border-radius: 35px;
+        border-radius: 33px;
     }
 
     .responsive-video iframe
      {
         position: absolute;
         top: 0;
-        left: 8%;
-        width: 92%;
+        left: 7%;
+        width: 93%;
         height: 90%;
-        border-radius: 35px;
+        border-radius: 33px;
         border: 1px solid plum;
     }
 

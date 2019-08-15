@@ -106,5 +106,17 @@ padding-left: 60%;
   clear: both;
 }
 
+@media screen and (max-width: 600px){
+
+    .paren {
+        margin-top: 80px;
+      }
+
+      .text {
+margin-bottom: 150px;
+
+      } 
+}
+
     
 

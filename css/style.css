@@ -57,6 +57,8 @@ ul.topnav li.right {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    border-top: 2px groove plum;
+    border-bottom: 2px groove plum;
     
 
 }
@@ -159,8 +161,6 @@ ul.topnav li.right {
 
 .fa {
     padding: 20px;
-    font-size: 30px;
-    width: 50px;
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
@@ -186,12 +186,12 @@ ul.topnav li.right {
 
     
     margin-top: 200px;
-  
     background-color: rgba(238, 238, 238, 1);
-    height: 300px;
+    height: 200px;
     text-align: center;
     font-family: serif;
     letter-spacing: 0.1em;
+    border-top: 2px groove plum;
 
     
 }
@@ -207,8 +207,11 @@ ul.topnav li.right {
 
 .icons a {
 
-    margin-top: 55px;
+    
     border-radius: 15px;
+    font-size: 20px;
+    width: 60px;
+    height: auto;
     
 }
 
@@ -225,20 +228,18 @@ footer {
     display: flex;
     justify-content: center;
     padding: 5px;
+    height: 200px;
     background-color: rgba(177, 156, 217, 0.9);
     color: #fff;
     flex-direction: column;
     align-items: center;
 
-
-
-
-
+    border-top: 4px groove plum;
 }
 
 footer p {
     color: grey;
-    font-size: 2vw;
+    font-size: 25px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -309,6 +310,17 @@ footer p a {
 .left {
     margin-right: 50px;
 }
+
+
+.follow {
+  font-size: 15px;
+
+    
+}
+ footer p {
+
+  font-size: 15px;
+ }
 
 
 

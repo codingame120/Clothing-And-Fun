@@ -37,6 +37,11 @@ ul.topnav li a.active {
 
 }
 
+ul.topnav li a.active:hover{
+        
+        opacity: 0.7;
+}
+
 ul.topnav li.right {
     float: right;
 

@@ -61,6 +61,19 @@ ul.topnav li.right {
   background: mediumpurple;
   color: white;
 }
+
+.fa-twitter {
+
+    background: mediumpurple;
+    color: white;
+}
+.fa-pinterest {
+
+    
+    background: mediumpurple;
+    color: white;
+}
+
 .icons 
 {
 
@@ -94,6 +107,7 @@ ul.topnav li.right {
     font-size: 20px;
     width: 20px;
     height: auto;
+    margin: 8px;
 
 }
 
@@ -220,6 +234,10 @@ h1 {
   font-size: 15px;
  }
 
+.icons a {
+ margin: 4px;
+
+}
 
 }
 

@@ -157,6 +157,18 @@ div.desc {
      color: white;
  }
 
+ .fa-twitter {
+
+     background: mediumpurple;
+     color: white;
+ }
+ .fa-pinterest {
+
+     
+     background: mediumpurple;
+     color: white;
+ }
+
 
  .icons {
 
@@ -182,6 +194,7 @@ div.desc {
      display: flex;
      justify-content: center;
      align-items: center;
+     margin: 8px;
       }
 
  .center {
@@ -250,6 +263,10 @@ div.desc {
       footer p {
 
        font-size: 15px;
+      }
+      .icons a {
+margin: 4px;
+
       }
 
  }

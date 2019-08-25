@@ -69,13 +69,22 @@ ul.topnav li.right {
     height: auto;
 }
 
-.slides {
+.slides  {
 
     width: 100%;
 
 }
 
 .slides1 {
+
+    width: 100%;
+}
+.slides2 {
+
+    width: 100%;
+}
+
+.slides3 {
 
     width: 100%;
 }
@@ -180,6 +189,18 @@ ul.topnav li.right {
     color: white;
 }
 
+.fa-twitter {
+
+    background: mediumpurple;
+    color: white;
+}
+.fa-pinterest {
+
+    
+    background: mediumpurple;
+    color: white;
+}
+
 
 .icons 
 {
@@ -212,6 +233,7 @@ ul.topnav li.right {
     font-size: 20px;
     width: 60px;
     height: auto;
+    margin: 8px;
     
 }
 
@@ -286,11 +308,13 @@ footer p a {
    
 
 }
-.slide img {
+.slide  img {
 
     border-radius: 25px;
     border: 1px solid plum;
 }
+
+
 
 
 .right1 {
@@ -322,6 +346,9 @@ footer p a {
   font-size: 15px;
  }
 
+.icons a {
 
+    margin: 4px;
+}
 
 }

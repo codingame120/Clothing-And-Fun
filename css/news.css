@@ -97,6 +97,10 @@ ul.topnav li.right {
 
 
 }
+.sticky {
+
+  position: sticky;
+}
 
 /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
 .icon-bar {

@@ -63,6 +63,8 @@ ul.topnav li.right {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
+  margin-left: 8px;
+  
 
 }
 
@@ -87,6 +89,7 @@ ul.topnav li.right {
   background: mediumpurple;
   color: white;
   border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
 
 }
 
@@ -106,6 +109,7 @@ ul.topnav li.right {
     background: mediumpurple;
     color: white;
     border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
 
 }
 

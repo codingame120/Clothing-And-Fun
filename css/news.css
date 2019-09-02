@@ -104,7 +104,7 @@ ul.topnav li.right {
 .icon-bar {
   position: fixed;
   top: 50%;
-  bottom: 0.5%;
+  bottom: 4px;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);

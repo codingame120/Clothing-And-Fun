@@ -266,13 +266,14 @@ ul.topnav li.right {
   height: auto;
   margin-left: auto;
   margin-right: auto;
-  background-color: plum;
+  background-color: rgba(142, 69, 133
+0.8);
 
 }
 
 #disqus_thread {
  
- padding: 5px;
+ padding: 10px;
 
 }
 

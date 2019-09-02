@@ -261,12 +261,12 @@ ul.topnav li.right {
 }
 
 .chat {
-
+  margin: 10px;
   width: 80%;
   height: auto;
   margin-left: auto;
   margin-right: auto;
-  margin: 10px;
+  
 
 }
 
@@ -397,7 +397,7 @@ footer p a {
     }
 
     .chat {
-bottom: 0;
+      margin-bottom: 0;
 
     }
 

@@ -267,7 +267,12 @@ ul.topnav li.right {
   margin-left: auto;
   margin-right: auto;
   background-color: plum;
-  
+
+}
+
+#disqus_thread {
+ 
+ padding: 5px;
 
 }
 

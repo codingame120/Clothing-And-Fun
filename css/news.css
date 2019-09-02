@@ -260,6 +260,12 @@ ul.topnav li.right {
     display: none;
 }
 
+.chat {
+
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 
 
 footer {

@@ -180,10 +180,36 @@ letter-spacing: 0.1em;
 
 p {
     text-align: center;
-    color: grey;
+
     font-size: 5vw;
     font-family: serif;
     letter-spacing: 0.1em;
+}
+
+.text {
+  animation: flow 30s ease-in-out infinite;
+}
+.text {
+  background: linear-gradient(-60deg,#904e95,#904e95,#e73c7e,#ee7752);
+  background-size: 300%;
+}
+.text{
+  -webkit-background-clip:text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+@keyframes flow {
+0%{
+  background-position: 0 50%;
+}
+50% {
+  background-position: 100% 50%;
+}
+
+100% {
+  background-position: 0 50%;
+}
+
 }
 
 

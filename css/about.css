@@ -185,6 +185,11 @@ p {
     font-family: serif;
     letter-spacing: 0.1em;
 }
+.text  {
+ 
+ margin-right: 10%;
+ margin-left: 10%;
+  }
 
 .text {
   animation: flow 30s ease-in-out infinite;

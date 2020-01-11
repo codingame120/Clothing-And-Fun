@@ -1,3 +1,10 @@
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+
 body {
     margin: 0;
 }
@@ -52,7 +59,7 @@ ul.topnav li.right {
     width: 100%;
 }
 
-.image {
+/* .image {
 
     display: flex;
     flex-wrap: wrap;
@@ -67,7 +74,7 @@ ul.topnav li.right {
 
     width: 100%;
     height: auto;
-}
+} */
 
 .slides  {
 
